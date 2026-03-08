@@ -4,7 +4,7 @@
 Synthetic HR, retirement contribution, and account balance datasets were ingested and structured for downstream analysis.
 
 ### 2. Data Cleaning & Transformation (SQL,Python)
-Python was used for data cleaning, transformation, feature engineering, and preparation of analysis-ready datasets.
+SQL and Python was used for data cleaning, transformation, feature engineering, and preparation of analysis-ready datasets.
 
 ### 3. Exploratory Data Analysis (EDA)
 EDA was performed to understand contribution behavior, retirement balance growth, demographic patterns, enrollment trends, and segment-level insights.
